@@ -1,0 +1,51 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de log
+*.log
+
+# Metadata de pacotes
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Arquivos de configuração do pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de ambientes/jupyter
+.ipynb_checkpoints
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos de testes
+.tox/
+.nox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Arquivos do pytest
+.pytest_cache/
+
+# Arquivos do mypy
+.mypy_cache/
+
+# Arquivos do PyInstaller
+*.spec

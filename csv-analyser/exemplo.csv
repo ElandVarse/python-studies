@@ -1,0 +1,6 @@
+id,nome_produto,quantidade,preco,loja
+1,Teclado,2,100,Loja A
+2,Mouse,5,50,Loja B
+3,Monitor,1,800,Loja A
+4,Mouse,2,50,Loja C
+5,Teclado,1,100,Loja B
